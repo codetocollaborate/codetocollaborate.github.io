@@ -12,6 +12,7 @@ export default [
 		image: "images/tg-portal.png",
 		summary:
 			"Software application to handle radio inputs/licenses and customer portal",
+		preview: "https://codetocollaborate.github.io/",
 		techStack: ["Angular"]
 	}
 ];
