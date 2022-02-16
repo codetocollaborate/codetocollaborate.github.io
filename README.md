@@ -1,4 +1,4 @@
-# My Portfolio Attempt.
+# My Portfolio.
 Web Portfolio to showcase projects and skills in better manner. 
 
 **If you enjoy this project, please consider [supporting me] to continue developing and maintaining it.**
